@@ -70,7 +70,7 @@ export default function Home() {
       <main className="flex-1">
 
         {/* hero */}
-      <section className="w-full py-12 md:py-24 lg:py-32 xl:py-48 bg-cover flex justify-center bg-center relative" style={{ backgroundImage: 'url(/wall.jpg)' }}>
+      <section className="w-full py-12 md:py-24 lg:py-32 xl:py-48 bg-cover flex justify-center bg-center relative" style={{ backgroundImage: 'url(./wall.jpg)' }}>
   
   <div className="absolute inset-0 bg-black opacity-50"></div>
   <div className="relative container px-4 md:px-6">
