@@ -104,7 +104,7 @@ export default function Home() {
       </div>
       <div className="flex flex-col items-center justify-center">
         <div className="relative w-full max-w-[400px] h-[400px] overflow-hidden rounded-xl">
-          <img src="/profile.jpg" alt="Profile" />
+          <img src="./profile.jpg" alt="Profile" />
         </div>
       </div>
     </div>
@@ -489,16 +489,16 @@ export default function Home() {
     </div>
     <div className="mt-12 flex justify-center space-x-6">
       <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer">
-        <img src="/facebook-icon.svg" alt="Facebook" className="w-6 h-6 hover:opacity-80" />
+        <img src="./facebook-icon.svg" alt="Facebook" className="w-6 h-6 hover:opacity-80" />
       </a>
       <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer">
-        <img src="/instagram-icon.svg" alt="Instagram" className="w-6 h-6 hover:opacity-80" />
+        <img src="./instagram-icon.svg" alt="Instagram" className="w-6 h-6 hover:opacity-80" />
       </a>
       <a href="https://www.linkedin.com/in/anjana2k02/" target="_blank" rel="noopener noreferrer">
-        <img src="/linkedin-icon.svg" alt="LinkedIn" className="w-6 h-6 hover:opacity-80" />
+        <img src="./linkedin-icon.svg" alt="LinkedIn" className="w-6 h-6 hover:opacity-80" />
       </a>
       <a href="https://github.com/Anjana2k02" target="_blank" rel="noopener noreferrer">
-        <img src="/github-icon.svg" alt="GitHub" className="w-6 h-6 hover:opacity-80" />
+        <img src="./github-icon.svg" alt="GitHub" className="w-6 h-6 hover:opacity-80" />
       </a>
     </div>
     <div className="mt-8 text-center text-sm text-muted-foreground">
