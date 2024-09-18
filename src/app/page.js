@@ -129,7 +129,7 @@ export default function Home() {
               <div className="group grid gap-4">
                 <div className="relative w-full h-[200px] overflow-hidden rounded-xl">
                   <img
-                    src="/sample1.jpg"
+                    src="./sample1.jpg"
                     width="550"
                     height="200"
                     alt="Project 1"
@@ -146,7 +146,7 @@ export default function Home() {
               <div className="group grid gap-4">
                 <div className="relative w-full h-[200px] overflow-hidden rounded-xl">
                   <img
-                    src="/sample2.jpg"
+                    src="./sample2.jpg"
                     width="550"
                     height="200"
                     alt="Project 2"
@@ -163,7 +163,7 @@ export default function Home() {
               <div className="group grid gap-4">
                 <div className="relative w-full h-[200px] overflow-hidden rounded-xl">
                   <img
-                    src="/sample3.jpg"
+                    src="./sample3.jpg"
                     width="550"
                     height="200"
                     alt="Project 3"
@@ -180,7 +180,7 @@ export default function Home() {
               <div className="group grid gap-4">
                 <div className="relative w-full h-[200px] overflow-hidden rounded-xl">
                   <img
-                    src="/sample4.jpg"
+                    src="./sample4.jpg"
                     width="550"
                     height="200"
                     alt="Project 4"
@@ -220,7 +220,7 @@ export default function Home() {
             <div className="flex flex-col items-center justify-center space-y-4">
                 <div className="relative w-[100px] h-[100px] overflow-hidden">
                   <img
-                    src="/jupyter.svg"
+                    src="./jupyter.svg"
                     width="100"
                     height="100"
                     alt="javascript"
@@ -235,7 +235,7 @@ export default function Home() {
               <div className="flex flex-col items-center justify-center space-y-4">
                 <div className="relative w-[100px] h-[100px] overflow-hidden">
                   <img
-                    src="/anaconda.svg"
+                    src="./anaconda.svg"
                     width="100"
                     height="100"
                     alt="nodejs"
@@ -252,7 +252,7 @@ export default function Home() {
               <div className="flex flex-col items-center justify-center space-y-4">
                 <div className="relative w-[100px] h-[100px] overflow-hidden">
                   <img
-                    src="/power.svg"
+                    src="./power.svg"
                     width="100"
                     height="100"
                     alt="react"
@@ -269,7 +269,7 @@ export default function Home() {
               <div className="flex flex-col items-center justify-center space-y-4">
                 <div className="relative w-[100px] h-[100px] overflow-hidden">
                   <img
-                    src="/javascript.svg"
+                    src="./javascript.svg"
                     width="100"
                     height="100"
                     alt="javascript"
@@ -284,7 +284,7 @@ export default function Home() {
               <div className="flex flex-col items-center justify-center space-y-4">
                 <div className="relative w-[100px] h-[100px] overflow-hidden">
                   <img
-                    src="/node.svg"
+                    src="./node.svg"
                     width="100"
                     height="100"
                     alt="nodejs"
@@ -301,7 +301,7 @@ export default function Home() {
               <div className="flex flex-col items-center justify-center space-y-4">
                 <div className="relative w-[100px] h-[100px] overflow-hidden">
                   <img
-                    src="/react.svg"
+                    src="./react.svg"
                     width="100"
                     height="100"
                     alt="react"
@@ -318,7 +318,7 @@ export default function Home() {
               <div className="flex flex-col items-center justify-center space-y-4">
                 <div className="relative w-[100px] h-[100px] overflow-hidden">
                   <img
-                    src="/python.svg"
+                    src="./python.svg"
                     width="100"
                     height="100"
                     alt="python"
@@ -335,7 +335,7 @@ export default function Home() {
               <div className="flex flex-col items-center justify-center space-y-4">
                 <div className="relative w-[100px] h-[100px] overflow-hidden">
                   <img
-                    src="/kotlin.svg"
+                    src="./kotlin.svg"
                     width="100"
                     height="100"
                     alt="kotlin"
@@ -350,7 +350,7 @@ export default function Home() {
               <div className="flex flex-col items-center justify-center space-y-4">
                 <div className="relative w-[100px] h-[100px] overflow-hidden">
                   <img
-                    src="/firebase.svg"
+                    src="./firebase.svg"
                     width="100"
                     height="100"
                     alt="firebase"
@@ -385,7 +385,7 @@ export default function Home() {
             <div className="mx-auto grid max-w-5xl items-center gap-6 py-12 lg:grid-cols-2 lg:gap-12">
               <div className="relative w-full h-[300px] overflow-hidden rounded-xl">
                 <img
-                  src="/p2.png"
+                  src="./p2.png"
                   width="550"
                   height="300"
                   alt="About Me"
@@ -434,7 +434,7 @@ export default function Home() {
     <div className="mx-auto grid max-w-5xl items-center gap-6 py-12 lg:grid-cols-2 lg:gap-12">
       <div className="flex flex-col items-center space-y-4 text-center">
         <img
-          src="/profile.jpg"
+          src="./profile.jpg"
           width="150"
           height="150"
           alt="Profile"
